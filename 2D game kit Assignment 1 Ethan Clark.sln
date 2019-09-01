@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D game kit Assignment 1 Ethan Clark", "Assembly-CSharp.csproj", "{BA686719-0533-0385-48EA-28AFA8FCB9F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D game kit Assignment 1 Ethan Clark", "Assembly-CSharp-Editor.csproj", "{97995035-6CD5-E850-67A5-0A25DE232E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA686719-0533-0385-48EA-28AFA8FCB9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA686719-0533-0385-48EA-28AFA8FCB9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA686719-0533-0385-48EA-28AFA8FCB9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA686719-0533-0385-48EA-28AFA8FCB9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97995035-6CD5-E850-67A5-0A25DE232E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97995035-6CD5-E850-67A5-0A25DE232E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97995035-6CD5-E850-67A5-0A25DE232E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97995035-6CD5-E850-67A5-0A25DE232E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
