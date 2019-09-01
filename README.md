@@ -1,2 +1,1 @@
-# Assignment 1 2D Game Ethan Clark
- 
+This is the first assignment for game develoment class. We had to download the 2D assets from the asset store and follow a step by step turtorial building a simple plaform game. No coding C# was required for this game.
